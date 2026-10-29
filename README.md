@@ -8,6 +8,10 @@
 - `index.html`：画作展示、下载、完整题目及推导。
 - `styles.css`：桌面与手机响应式样式。
 
+## 制作备注
+
+制作备注：Agent 工具 **Codex**，模型 **gpt-6-astra**，推理强度 **xhigh**。模型与推理强度按用户提供的信息记录，不作为后端模型身份的独立验证。
+
 ## 本地运行
 
 在此目录执行 `python -m http.server 4189`，打开 http://localhost:4189 。也可以直接打开 `index.html`。
